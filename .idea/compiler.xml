@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="LingDB" options="--add-modules java.base" />
+      <module name="LingDB" options="" />
     </option>
   </component>
 </project>
